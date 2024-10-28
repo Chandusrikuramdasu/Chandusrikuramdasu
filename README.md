@@ -1,7 +1,7 @@
 - # Hi there! 👋 I'm ChanduSrikuramdasu  
 
 ### 👨‍💻 About Me
-- 🌱 Learning: *Python, Web Development, Bootstrap, Media Queries*  
+- 🌱 Learning: *Python,Java, Web Development, Bootstrap, Media Queries*  
 - 🚀 Building: A *Disney+ Hotstar clone* ,*zomato clone webpage*
 - 🏆 Latest Achievement: [HTML Completion Certificate](https://linkedin.com/in/chandu-sri-kuramdasu-75872132b)
 - 🎯 Goals: Explore the world and make my parents proud!
