@@ -15,4 +15,4 @@
 - [LinkedIn](https://linkedin.com/in/chandu-sri-kuramdasu-75872132b)
 - Email:chandusri0303@gmail.com
 
-![Chandu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandusrikuramdasu&show_icons=true&theme=radical)
+![Chandu's GitHub stats](https://github.com/in/chandusrikuramdasu)
