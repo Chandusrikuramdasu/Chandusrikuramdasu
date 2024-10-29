@@ -1,0 +1,125 @@
+/* Universal Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Body and Layout */
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Header Section */
+.bg-container {
+  background-image: url("handphn.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+  background-color: rgb(251, 72, 72);
+}
+
+.main-heading {
+  color: white;
+  font-family: 'Okra', 'Metropolis', sans-serif;
+  font-size: 100px;
+  text-transform: lowercase;
+}
+
+.sub-intro {
+  font-size: 25px;
+  color: white;
+  text-decoration: underline;
+  margin: 10px 0;
+}
+
+.intro-para {
+  margin: 30px auto;
+  color: white;
+  font-style: italic;
+  font-size: 20px;
+  max-width: 1000px;
+}
+
+.button {
+  background-color: #e9bf18;
+  color:black;
+  font-family:"Monoton"
+  border-style:solid;
+  border-radius: 28px;
+  padding: 15px 30px;
+  font-size: 19px;
+  cursor: pointer;
+  margin-top: 45px;
+  
+}
+
+/* Menu Section */
+.menu-container {
+  background-color: white;
+  padding: 20px;
+}
+
+.menu-card {
+  text-align: left;
+  font-size: 24px;
+  text-decoration: underline;
+  margin-bottom: 15px;
+}
+
+.menu-box {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 15px;
+}
+
+.menu-item {
+  text-align: center;
+}
+
+.menu-item img {
+  width: 100%;
+  height: 40vh;
+  object-fit: cover;
+}
+
+/* Footer Section */
+.footer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 20px;
+  padding: 30px;
+  background-color: #222;
+  color: white;
+}
+
+.footer-row h3 {
+  margin-bottom: 10px;
+  font-size: 18px;
+  color: rgb(254, 130, 15);
+}
+
+.footer-row ul {
+  list-style: none;
+}
+
+.footer-row a {
+  text-decoration: none;
+  color: #eac624;
+}
+
+.footer-row a:hover {
+  text-decoration: underline;
+}
+
+.footer-part {
+  background-color: rgb(57, 50, 50);
+  text-align: center;
+  color: rgb(244, 170, 34);
+  padding: 10px 0;
+}
