@@ -8,7 +8,7 @@
 
 ### 🛠 Technologies & Tools
 - *Frontend:* HTML, CSS, Bootstrap  
-- *Backend:* Basic Python (learning)  
+- *Backend:* Basic Python (learning)
 - *Version Control:* Git & GitHub  
 
 ### 📫 How to reach me
